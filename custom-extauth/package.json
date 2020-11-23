@@ -1,0 +1,16 @@
+{
+  "name": "apim-extauth",
+  "version": "1.0.0",
+  "description": "Multiple authorization methods running on the same microgateway instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luciano Alvarez",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "jsrsasign": "^9.0.0",
+    "request": "^2.81.0"
+  }
+}
